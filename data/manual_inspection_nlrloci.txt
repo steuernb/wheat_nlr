@@ -1,0 +1,32 @@
+ID	Manually validated
+chr7D_nlr_89	Early Stop Codon
+chr6B_nlr_166	Early Stop Codon
+chr1B_nlr_51	Early Stop Codon
+chr2B_nlr_97	Early Stop Codon
+chr4A_nlr_158	Early Stop Codon
+chr4D_nlr_21	Early Stop Codon
+chr5A_nlr_61	Early Stop Codon
+chr5D_nlr_17	Early Stop Codon
+chr7B_nlr_101	Early Stop Codon
+chr1B_nlr_117	Early Stop Codon
+chr2A_nlr_109	Early Stop Codon
+chr2B_nlr_43	Early Stop Codon
+chr3B_nlr_164	Early Stop Codon
+chr4A_nlr_80	Early Stop Codon
+chr5D_nlr_33	Early Stop Codon
+chr6A_nlr_17	Early Stop Codon
+chr6A_nlr_38	Early Stop Codon
+chr6B_nlr_207	Early Stop Codon
+chr6D_nlr_107	Early Stop Codon
+chr6D_nlr_94	Early Stop Codon
+chr6D_nlr_65	Early Stop Codon
+chr7A_nlr_236	Early Stop Codon
+chr7A_nlr_73	Early Stop Codon
+chr7A_nlr_129	Early Stop Codon
+chr7A_nlr_92	Early Stop Codon
+chr7B_nlr_180	Early Stop Codon
+chrUn_nlr_231	Early Stop Codon
+chr1A_nlr_16	Early Stop Codon
+chr3A_nlr_26	not reconstructable
+chr4B_nlr_25	Paritially expressed
+chr5D_nlr_41	Early Stop Codon
