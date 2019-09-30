@@ -21,6 +21,11 @@ Two files `data/ADR1_addon.txt` and `data/manual_inspection_nlrloci.txt` are inp
 Methods to generate annotation files for [iTOL](https://itol.embl.de/shared/steuernb). Basis for Figures 2, S4, S5 and S6.
 
 -----------
+### `NLR_Expression_Level.java`
+Methods to create Figure 3. 
+
+
+-----------
 
 ### `java/src/PAMP_RnaSeq`
 Prepare data for ternary plots (Figure 4).
