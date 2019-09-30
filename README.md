@@ -27,7 +27,7 @@ Methods to create Figure 3.
 
 -----------
 
-### `java/src/PAMP_RnaSeq`
+### `java/src/PAMP_RnaSeq.java`
 Prepare data for ternary plots (Figure 4).
 
 
